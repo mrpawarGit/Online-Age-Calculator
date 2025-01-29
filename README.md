@@ -2,6 +2,9 @@
 
 A simple web-based Age Calculator that allows users to determine their exact age based on their date of birth. Built using **HTML, Bootstrap, and JavaScript**.
 
+## Demo
+Check out the live demo: [Online Age Calculator](https://mrpawargit.github.io/Online-Age-Calculator/)
+
 ## Features
 - Enter your Date of Birth to calculate age.
 - Displays age in years.
@@ -37,4 +40,6 @@ A simple web-based Age Calculator that allows users to determine their exact age
 ├── 📄 script.js   # JavaScript logic for age calculation
 └── 📄 README.md   # Project documentation
 ```
+
+
 
